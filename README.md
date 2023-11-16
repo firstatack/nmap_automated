@@ -1,2 +1,5 @@
 # nmap_automated
-Script de bash creado para automatizar los escaneos con nmap
+##Automatizando los escaneos con nmap
+
+Comandos basicos y avanzados para diferentes escenarios
+ *de a poco che esto es nuevo
